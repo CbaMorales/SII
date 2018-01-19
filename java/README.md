@@ -1,7 +1,11 @@
-# Proyecto Eclipse
+# JAVA SII
 
- WorkSpace Eclipse
- Eclipse Java EE IDE for Web Developers.
+Proyectos MAVEN con código útil para implementar rápidamente las funcionalidades de los Web Services provistos por el SII
 
- Version: Oxygen Release (4.7.0)
- Build id: 20170620-1800 
+|Función|Estado|
+|----|----|
+|Obtención de Semilla|Implementado|
+|Firma de la Semilla|Implementado|
+|Obtención de Token|Implementado|
+|Subida automatica DTE|NO Implementado|
+|Consulta de estado DTE|NO Implementado|
