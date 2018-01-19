@@ -2,11 +2,11 @@
 #
 Código para realizar la autenticación automática con el SII sin necesidad de utilizar librerías externas como Axis2
 
-# Funciones implementadas
-
-    Obtener Semilla desde el Web Service del SII
-    Firmar Semilla con certificado digital
-    Obtener Token desde el Web Service del SII
+|Funciones implementadas|
+|--|
+|Obtener Semilla desde el Web Service del SII|
+|Firmar Semilla con certificado digital|
+|Obtener Token desde el Web Service del SII|
     
 # Donaciones
     Paypal  : https://www.paypal.me/CbaMorales
